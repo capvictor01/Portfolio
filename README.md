@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# Victor Paul Portfolio Website
 
-## Project info
+This repository contains the source code for my personal developer portfolio website. The portfolio showcases my projects, technical skills, certifications, and professional background as a Computer Science student specializing in Full Stack Software Development.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Live Website
 
-## How can I edit this code?
+Visit the live portfolio here:
+https://your-portfolio-link.com
 
-There are several ways of editing your application.
+## About the Portfolio
 
-**Use Lovable**
+This portfolio was built to present my work, projects, and experience in a clear and professional way. It includes sections for:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+* About Me
+* Skills
+* Services
+* Projects
+* Certifications
+* Contact
 
-Changes made via Lovable will be committed automatically to this repo.
+The website highlights projects such as the **Art & Asset Marketplace**, an online platform designed for students to buy and sell used products and showcase creative artwork.
 
-**Use your preferred IDE**
+## Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This project is built using modern web development tools and frameworks:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* React
+* Vite
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* Framer Motion
 
-Follow these steps:
+## Installation and Setup
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+To run the project locally on your computer:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Navigate into the project folder
+cd YOUR_REPOSITORY_NAME
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+After running the development server, open the local address shown in the terminal (usually `http://localhost:5173`).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Features
 
-**Use GitHub Codespaces**
+* Responsive modern portfolio design
+* Animated UI using Framer Motion
+* Project showcase with external links
+* Certification section
+* Contact section
+* Optimized performance using Vite
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Author
 
-## What technologies are used for this project?
+Victor Paul Mkondokwa
+Computer Science Student | Full Stack Developer | Content Creator
 
-This project is built with:
+## License
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project is open-source and available for learning and personal use.
