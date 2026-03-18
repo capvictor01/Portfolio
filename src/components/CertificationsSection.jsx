@@ -10,16 +10,22 @@ const certifications = [
     link: "https://www.coursera.org/account/accomplishments/verify/..." 
   },
   {
-    title: "Full Stack Web Development",
-    issuer: "Online Certification",
-    description: "Focused on modern web development technologies including front-end and back-end concepts.",
-    link: "#"
+    title: "100 Days of Code: Python Pro Bootcamp",
+    issuer: "Udemy",
+    description: "Completed a 56.5-hour intensive Python program by Dr. Angela Yu.",
+    link: "https://www.udemy.com/certificate/UC-28912522-d549-4767-bba3-0e405e8f8a2f/"
   },
   {
-    title: "Java Programming – Self Paced",
-    issuer: "GeeksforGeeks",
-    description: "Completed a comprehensive Java Programming course covering core concepts and OOP skills.",
-    link: "https://media.geeksforgeeks.org/courses/certificates/da5e203f652ca271a31db32f06fbe14a.pdf"
+    title: "Database Management from Scratch - Part 1",
+    issuer: "Udemy",
+    description: "Learned fundamental database concepts including data organization, relational models, and basic database operations.",
+    link: "https://www.udemy.com/certificate/UC-4cf6bb74-792a-4965-84ad-7854bd5c23b8/"
+  },
+  {
+    title: "Introduction to Cybersecurity Tools & Cyberattacks",
+    issuer: "Coursera",
+    description: "Gained foundational knowledge of cybersecurity concepts, common cyber threats, and tools used to detect and prevent attacks.",
+    link: "https://www.coursera.org/account/accomplishments/verify/WT8CXGMJ9Y5C"
   }
 ];
 
