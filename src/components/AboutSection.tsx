@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { CheckCircle2, Rocket, GraduationCap, Download, Eye } from "lucide-react";
-import profileImg from "@/assets/profile.png";
+import profileImg from "@/assets/AboutPhoto.png";
 
 const highlights = [
   {
