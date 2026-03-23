@@ -109,6 +109,16 @@ const AboutSection = () => (
             Download CV
           </a>
 
+          {/* Download CV */}
+          <a
+            href="/public/resume vc.pdf"
+            download
+            className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+          >
+            <Download size={18} />
+            Download SP CV
+          </a>
+
         </div>
 
       </motion.div>
