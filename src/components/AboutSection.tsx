@@ -111,12 +111,12 @@ const AboutSection = () => (
 
           {/* Download CV */}
           <a
-            href="/public/resume vc.pdf"
+            href="https://drive.google.com/file/d/1gzZkwvggftUUaPUGTSDLYpiI0sK4_JMI/view?usp=sharing"
             download
             className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
           >
             <Download size={18} />
-            Download SP CV
+            View SP CV
           </a>
 
         </div>
