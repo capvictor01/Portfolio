@@ -89,35 +89,36 @@ const AboutSection = () => (
         <div className="flex gap-4 mt-8">
 
           {/* View CV */}
-          <a
-            href="/Victor%20CV.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 border border-secondary text-secondary px-6 py-3 rounded-lg font-semibold hover:bg-secondary hover:text-secondary-foreground transition"
-          >
-            <Eye size={18} />
-            View CV
-          </a>
+<a
+  href="https://drive.google.com/file/d/1jg2iAQ-UTycBOU139OPkFOhVJ5URZ3jZ/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 border border-secondary text-secondary px-6 py-3 rounded-lg font-semibold hover:bg-secondary hover:text-secondary-foreground transition"
+>
+  <Eye size={18} />
+  View CV
+</a>
 
-          {/* Download CV */}
-          <a
-            href="/Victor%20CV.pdf"
-            download
-            className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
-          >
-            <Download size={18} />
-            Download CV
-          </a>
+{/* Download CV
+<a
+  href="https://drive.google.com/file/d/1jg2iAQ-UTycBOU139OPkFOhVJ5URZ3jZ/view?usp=sharing"
+  download
+  className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+>
+  <Download size={18} />
+  Download CV
+</a> */}
 
-          {/* Download CV */}
-          <a
-            href="https://drive.google.com/file/d/1gzZkwvggftUUaPUGTSDLYpiI0sK4_JMI/view?usp=sharing"
-            download
-            className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
-          >
-            <Download size={18} />
-            View SP CV
-          </a>
+{/* View SP CV */}
+<a
+  href="https://drive.google.com/file/d/1gzZkwvggftUUaPUGTSDLYpiI0sK4_JMI/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+>
+  <Eye size={18} />
+  View SP CV
+</a>
 
         </div>
 
